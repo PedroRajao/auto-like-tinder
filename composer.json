@@ -1,0 +1,7 @@
+{
+  "require-dev": {
+    "codeception/codeception": "^2.2.0",
+    "phpunit/phpunit": "^5.7.0",
+    "enm1989/chromedriver": "^2.45"
+  }
+}
