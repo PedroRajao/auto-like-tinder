@@ -1,3 +1,3 @@
-// Fill with your account information, and rename this to 'config.php'
+// Fill with your facebook's account information
 define('EMAIL', '{EMAIL}');
 define('PASS', '{PASSWORD}');
