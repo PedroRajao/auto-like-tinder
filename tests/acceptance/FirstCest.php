@@ -11,8 +11,8 @@ class SigninCest
 
         $I->wait(2);
         $I->switchToNextTab();
-        $I->fillField('#email', '{EMAIL}');
-        $I->fillField('#pass', '{PASS}');
+        $I->fillField('#email', EMAIL);
+        $I->fillField('#pass', PASS);
         $I->click('#loginbutton');
 
         $I->wait(2);
