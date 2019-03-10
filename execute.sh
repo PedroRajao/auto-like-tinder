@@ -3,8 +3,6 @@
 
 # Inicia chromedriver
 ./vendor/bin/chromedriver --url-base=/wd/hub &
-# Vai ao dir do projeto
-cd /home/konolu/Desktop/auto_like/
 
 # Executa codecept auto_like 5 vezes
 for i in {1..5}
