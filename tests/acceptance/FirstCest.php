@@ -1,5 +1,6 @@
 <?php
-require_once('../../../config.php');
+define('__ROOT__', dirname(dirname(dirname(__FILE__)))); 
+require_once(__ROOT__.'/config.php');
 
 class SigninCest
 {
