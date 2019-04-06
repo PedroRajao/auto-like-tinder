@@ -4,4 +4,4 @@
 .env
 config.php
 composer.lock
-tests
+tests/
