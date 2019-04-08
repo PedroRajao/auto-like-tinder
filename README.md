@@ -11,5 +11,5 @@ Is "Not interested" option not appearing for you?
 Just comment the lines where ""Not interested" appears
 https://github.com/PedroRajao/auto-like-pub/blob/master/tests/acceptance/FirstCest.php#L23
 
-#### Documentation - Codeception
+#### Documentation
 https://codeception.com/docs/modules/WebDriver
