@@ -4,7 +4,7 @@
 - Run project with  "./run.sh" at the project's root directory
 
 #### EXTRA OPTIONS
-How to change how many times the script run?
+How to change how many times the script run?<br>
 https://github.com/PedroRajao/auto-like-pub/blob/master/run.sh#L8
 
 Is "Not interested" option not appearing for you?
