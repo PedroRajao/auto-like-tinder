@@ -1,14 +1,15 @@
 #!/bin/bash
-# Adicionar um crontab para esse script rodar todo dia às HH:MM
+# Start a crontab to execute this script everyday at HH:MM
 
-# Inicia chromedriver
+
+# Start chromedriver
 ./vendor/bin/chromedriver --url-base=/wd/hub &
 
-# Executa codecept auto_like N vezes
+# Execute codecept auto_like N times
 for i in {1..5}
 do
    ./vendor/bin/codecept run --steps
 done
 
-# Suspende pc até 5 minutos antes do horário que esse script rodou do dia seguinte
+# Suspends PC until next day = 24 hours minus 5 minutes
 #./suspend_until.sh HH:MM (-5)
