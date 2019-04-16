@@ -9,6 +9,9 @@ May not work without chrome's tinder app installed
 How to change how many times the script run? <br>
 https://github.com/PedroRajao/auto-like-pub/blob/master/run.sh#L8
 
+Add a handy crontab job <br>
+https://github.com/PedroRajao/auto-like-tinder/blob/master/run.sh#L15
+
 Is "Not interested" option not appearing for you?
 Just comment the lines where ""Not interested" appears
 https://github.com/PedroRajao/auto-like-pub/blob/master/tests/acceptance/FirstCest.php#L23
