@@ -3,6 +3,8 @@
 - Install project's dependencies with: "composer install"
 - Run project with  "./run.sh" at the project's root directory
 
+May not work without chrome's tinder app installed
+
 ##### EXTRA OPTIONS
 How to change how many times the script run? <br>
 https://github.com/PedroRajao/auto-like-pub/blob/master/run.sh#L8
